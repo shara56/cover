@@ -148,6 +148,8 @@ html lang="en">
 ## OUTPUT:
 ![6c1](https://github.com/shara56/cover/assets/113497104/1e84acc5-73b6-4517-9ec4-26b9081a32c0)
 ![6c](https://github.com/shara56/cover/assets/113497104/b47367fa-f6ed-4dc8-ad44-8e83cb8a5d87)
+## Html validator:
+![ht](https://github.com/shara56/cover/assets/113497104/062c4fb7-c95e-4720-ae48-b03e9f214267)
 
 
 ## RESULT:
